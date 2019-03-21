@@ -42,4 +42,4 @@ void enterString(char *text, char *s, int maxLen) {
     s[i] = 0;
 }
 
-// int main(int argc, const char *argv[]);
+// int main(int argc, const char *argv[]) ;
